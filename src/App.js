@@ -33,7 +33,6 @@ const mapStateToProps = store => ({
   newValue: store.cliqueState.newValue,
 });
 
-
 const mapDispatchToProps = dispatch => bindActionCreators ({ cliqueButton }, dispatch );
 
 export default connect (mapStateToProps, mapDispatchToProps) (App);
