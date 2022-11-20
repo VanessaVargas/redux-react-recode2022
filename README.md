@@ -30,3 +30,6 @@ realize a opção *Download ZIP* ou clone o repositório (`git clone https://git
 
 #### Para inicializar o projeto:
 `npm start`
+
+<hr>
+Feito com ❤️ por VanessaVargas
