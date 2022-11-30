@@ -24,7 +24,7 @@ Projeto desenvolvido em monitoria para revisar e explicar o uso do Redux no Reac
 
 
 #### Para baixar:
-realize a opção *Download ZIP* ou clone o repositório (`git clone https://github.com/VanessaVargas/react-recode-2021.git`)
+realize a opção *Download ZIP* ou clone o repositório (`git clone https://github.com/VanessaVargas/redux-react-recode2022.git`)
 
 #### Para instalar as dependências:
 `npm install`
