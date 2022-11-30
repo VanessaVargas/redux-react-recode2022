@@ -1,5 +1,6 @@
-# Projeto React com Redux
-Projeto realizado em Monitoria no Recode Pro 2022. 
+# Projeto de monitoria - React com Redux
+
+Projeto desenvolvido em monitoria para revisar e explicar o uso do Redux no React JS. Repositório criado para fins de estudos durante o programa Recode Pro, em Setembro de 2022.
 
 ### Etapas realizadas:
 1. Criar o projeto React, ou pode abrir um já existente
